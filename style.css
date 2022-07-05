@@ -1,0 +1,110 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: darkgrey;
+}
+
+/*---box1---*/
+.box1 {
+    background-image: url("donation12.png");
+    background-repeat: no-repeat;
+    padding: 140px 100px;
+    text-align: justify;
+    color: white;
+}
+
+.box11 h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.box11 {
+    text-align: center;
+}
+
+.button {
+    text-decoration: none;
+    font-size: 32px;
+    background-color: tomato;
+    border-radius: 15px;
+    padding: 10px 40px;
+    color: wheat;
+}
+
+/*---box2---*/
+.box2 {
+    text-align: center;
+    padding: 50px;
+}
+
+.box222 {
+    display: flex;
+    text-align: center;
+    padding: 10px 40px;
+}
+
+.box222 h1 {
+    text-align: center;
+    padding: 10px 60px;
+}
+
+/*---box3---*/
+.box3 {
+    text-align: center;
+    padding: 50px 200px;
+}
+
+/*---box4---*/
+.box4 {
+    display: flex;
+    padding: 10px 20px;
+    margin: 5px 40px;
+}
+
+.box4 span {
+    font-size: 60px;
+}
+
+.box41 {
+    padding: 10px 30px;
+    text-align: justify;
+}
+
+/*---box5---*/
+.box5 {
+    display: flex;
+}
+
+.box55 {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.box55 img {
+    width: 85%;
+}
+
+/*---box6---*/
+.box6 {
+    display: flex;
+}
+
+.box66 {
+    margin: 30px 60px;
+    padding: 30px;
+}
+
+/*---box7---*/
+.box7 {
+    text-align: center;
+    margin: 20px 200px;
+}
+
+/*---box8---*/
+.box8 {
+    text-align: center;
+    color: wheat;
+    background-color: black;
+    margin-bottom: 0;
+}
